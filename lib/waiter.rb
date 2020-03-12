@@ -23,7 +23,7 @@ class Waiter
   end
   
   def best_tipper
-    
+    self.meals.find
   end
   
   
